@@ -1,5 +1,4 @@
-Code 101: Intro to Software Development & Careers in Tech
------------------------
+# Code 101: Intro to Software Development & Careers in Tech
 
 Welcome to Code 101!
 
@@ -7,9 +6,9 @@ The very first thing you need to do is setup your computer. This means you will 
 
 **If you encounter any problems with these guides, please come in early at 8 AM so that we can help you setup your computer.**
 
-### Pre-work
+## Pre-work
 
-##### 1. Ensure your laptop up to the task of coding
+### 1. Ensure your laptop up to the task of coding
 
   - Is virus and malware free
   - Uses the latest, stable, updated version of its operating system
@@ -17,17 +16,19 @@ The very first thing you need to do is setup your computer. This means you will 
   - Has plenty of free hard drive space and memory
   - Can reliably connect to wireless networks
 
-##### 2. Complete the setup guide for your computer's operating system
+### 2. Complete the setup guide for your computer's operating system
 
   - [Mac OS X](prework/mac/1_terminal.md)
   - [Ubuntu](prework/ubuntu/1_terminal.md)
   - [Windows](prework/windows/1_terminal.md)
 
+Sorry, no Chromebooks, as they do not give you access to the terminal and other tools developers user. 
+
 Following completion of these Pre-work assignments, you should:
  - Have a terminal with a Git compatible prompt
  - Be able to receive a valid response when typing "git --version"
 
-##### 3. Download and Install Slack
+### 3. Download and Install Slack
 
 We use Slack to distribute files and collaborate before, during, and after the workshop.
 

@@ -6,8 +6,8 @@ There are multiple versions of the Git, and the one you use on depends on which 
 
 *Either version will work for this course* **however** if you have an older Mac OS (Snow Leopard, Lion, Mountain Lion) then the newer version will not work at all.
 
-####To check which OS version you are running:####
-Click the apple icon in the upper left corner of yoru screen. Then click on `about this mac`. You will see something like this:
+#### To check which OS version you are running:
+Click the apple icon in the upper left corner of your screen. Then click on `about this mac`. You will see something like this:
 
 ![](http://imgur.com/yxXSJa7.png)
 
